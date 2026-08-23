@@ -1,1 +1,1 @@
-# SCRIPT_PS_WUPDATE
+Just a simple script to force Windows Update.
