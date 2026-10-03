@@ -1,1 +1,1 @@
-Just a simple script to force Windows Update!
+Just a simple script to force Windows Update.
